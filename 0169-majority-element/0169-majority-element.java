@@ -16,7 +16,7 @@ class Solution {
                 count--;
             }
         }
-    //System.out.println(element);
+    
     return element;
     }
 }
