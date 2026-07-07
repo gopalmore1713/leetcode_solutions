@@ -40,4 +40,8 @@ A comprehensive collection of LeetCode solutions with clean, optimized code, det
 |  |
 | ------- |
 | [1539-kth-missing-positive-number](https://github.com/gopalmore1713/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
