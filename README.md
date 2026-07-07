@@ -19,6 +19,7 @@ A comprehensive collection of LeetCode solutions with clean, optimized code, det
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0169-majority-element) |
+| [1539-kth-missing-positive-number](https://github.com/gopalmore1713/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A comprehensive collection of LeetCode solutions with clean, optimized code, det
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [1539-kth-missing-positive-number](https://github.com/gopalmore1713/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
