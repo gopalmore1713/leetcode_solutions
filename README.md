@@ -19,11 +19,13 @@ A comprehensive collection of LeetCode solutions with clean, optimized code, det
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [1539-kth-missing-positive-number](https://github.com/gopalmore1713/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A comprehensive collection of LeetCode solutions with clean, optimized code, det
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
@@ -44,4 +47,8 @@ A comprehensive collection of LeetCode solutions with clean, optimized code, det
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0058-length-of-last-word) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
