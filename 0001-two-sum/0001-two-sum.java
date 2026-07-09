@@ -12,9 +12,7 @@ class Solution {
                 arr[1] = j;
                 return arr;
             }
-            else{
-                narr[2] = 0;
-            }
+           
            }
 
         }
