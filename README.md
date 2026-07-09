@@ -18,12 +18,14 @@ A comprehensive collection of LeetCode solutions with clean, optimized code, det
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [1539-kth-missing-positive-number](https://github.com/gopalmore1713/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
