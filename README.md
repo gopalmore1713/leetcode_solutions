@@ -11,6 +11,7 @@ A comprehensive collection of LeetCode solutions with clean, optimized code, det
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/gopalmore1713/leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A comprehensive collection of LeetCode solutions with clean, optimized code, det
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0645-set-mismatch) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/gopalmore1713/leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
