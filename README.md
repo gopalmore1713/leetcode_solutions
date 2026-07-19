@@ -22,6 +22,7 @@ A comprehensive collection of LeetCode solutions with clean, optimized code, det
 | [0001-two-sum](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gopalmore1713/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/gopalmore1713/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
@@ -65,6 +66,7 @@ A comprehensive collection of LeetCode solutions with clean, optimized code, det
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0283-move-zeroes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
