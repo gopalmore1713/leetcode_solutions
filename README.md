@@ -23,6 +23,7 @@ A comprehensive collection of LeetCode solutions with clean, optimized code, det
 | [0027-remove-element](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0645-set-mismatch) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gopalmore1713/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/gopalmore1713/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ A comprehensive collection of LeetCode solutions with clean, optimized code, det
 | ------- |
 | [0169-majority-element](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0645-set-mismatch) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gopalmore1713/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A comprehensive collection of LeetCode solutions with clean, optimized code, det
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/gopalmore1713/leetcode_solutions/tree/master/0027-remove-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gopalmore1713/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
